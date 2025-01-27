@@ -1,0 +1,3 @@
+hadoop fs -mkdir ~/input
+hadoop fs -put ./input/TestWC.txt ~/input
+

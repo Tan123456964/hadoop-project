@@ -1,0 +1,4 @@
+test hadoop wc
+hello
+123
+hhahaha
